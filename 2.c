@@ -3,7 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <conio.h>
-#include "1.h"
+#include "tablecontents.h"
 
 int i;
 
